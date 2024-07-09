@@ -1,4 +1,9 @@
 ## KMNIST Deep Learning Project
+#Author
+A Harshavardhan Reddy
+
+For any questions or feedback on this project, feel free to contact me at [harsha2004alpur@gmail.com]
+
 # Project Overview
 This project applies a Convolutional Neural Network (CNN) to the KMNIST (Kuzushiji-MNIST) dataset, achieving notable performance metrics. The KMNIST dataset consists of grayscale images of handwritten Japanese characters (Hiragana), and serves as a more challenging alternative to the traditional MNIST dataset.
 
